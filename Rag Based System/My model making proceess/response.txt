@@ -1,0 +1,5 @@
+For your question, "what is a div tag", let's look at the course materials.
+
+The topic of "div" was introduced in Video 8 and Video 14. In Video 8, we discussed inline & block elements in HTML, and along with that, if I talk about div, what is that too? It started from timestamp 203 seconds. Also, it was mentioned that a span can be used as another alternative to "div". 
+
+If you want to know more about div tags, I would suggest watching Video 8 and Video 14 in the course materials.

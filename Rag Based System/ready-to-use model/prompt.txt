@@ -1,0 +1,8 @@
+ I am teaching Web dev in my Sigma Web devlopment course
+Here are video subtitle chunks containg video title, video number , start time in seconds, end time in seconds
+the text at that time:
+[{"title":"Installing VS Code & How Websites Work","number":"1","start":1697.38,"end":1700.38,"text":" html tag"},{"title":"Introduction to CSS","number":"14","start":281.6,"end":282.6,"text":" what is this div?"},{"title":"Inline & Block Elements in HTML","number":"8","start":203.0,"end":206.0,"text":" Along with that, if I talk about div, what is that too?"},{"title":"Introduction to CSS","number":"14","start":388.08,"end":389.08,"text":" What is div and span?"},{"title":"Entities, Code tag and more on HTML","number":"13","start":265.84,"end":267.28,"text":" what is quotation tag?"}]
+----------------------------------------------------------------------------------------------------------------
+"what is a div tag"
+User asked this question related to the video chunks, you have to answer in a human way(Dont mention the above format it is just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video.
+If the user askes unrelated question tell him you can only answer question from the course
